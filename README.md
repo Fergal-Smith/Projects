@@ -1,2 +1,2 @@
 # Projects
-Academic computing projects developed during my B.Sc. Computing for Business at Dublin City University.
+A portfolio containing projects I have completed during my time in DCU
