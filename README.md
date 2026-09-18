@@ -9,7 +9,7 @@ A Django-based website developed as part of a group project to analyse the perce
 
 My contribution: GitLab repository setup, URL routing (urls.py) and database models (models.py).
 
-## 2. Coffee Shop Database
+## 2. Coffee Shop SQL
 
 Technologies: MySQL, SQL, phpMyAdmin
 
@@ -17,7 +17,7 @@ A relational database designed for a fictional coffee shop chain, managing custo
 
 My contribution: Database table design and normalisation, primary/foreign key relationships, many-to-many junction tables and SQL queries.
 
-## 3. Django TV Information Website
+## 3. Django TV Website
 
 Technologies: Python, Django, HTML/CSS
 
